@@ -11,6 +11,7 @@ namespace DutchTreat.Controllers
     {
         public IActionResult Index()
         {
+            throw new InvalidProgramException("Bad things happen");
             return View();
         }
     }
