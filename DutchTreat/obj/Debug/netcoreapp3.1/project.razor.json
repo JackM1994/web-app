@@ -14402,6 +14402,26 @@
   "RootNamespace": "DutchTreat",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\JackMorris\\Documents\\web-app\\DutchTreat\\Views\\App\\Contact.cshtml",
+      "TargetPath": "Views\\App\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\JackMorris\\Documents\\web-app\\DutchTreat\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\JackMorris\\Documents\\web-app\\DutchTreat\\Views\\App\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\App\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\JackMorris\\Documents\\web-app\\DutchTreat\\Views\\App\\About.cshtml",
+      "TargetPath": "Views\\App\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\JackMorris\\Documents\\web-app\\DutchTreat\\Views\\App\\index.cshtml",
       "TargetPath": "Views\\App\\index.cshtml",
       "FileKind": "mvc"

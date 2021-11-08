@@ -65,3 +65,15 @@ label {
   .popup-form input[type=submit] {
       width: auto;
   }
+  menu li {
+    display: inline;
+    color: green;
+}
+ 
+ menu li::after {
+     content: ' |';
+
+ }
+ menu li:last-of-type::after {
+     content: ' ';
+ }
